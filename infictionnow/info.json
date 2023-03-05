@@ -1,0 +1,14 @@
+{
+	"title": "International Fiction Now",
+	"logo" : "logo.png",
+	"about" : "International Fiction Now<br />Festival Website",
+	"menu" : {
+		"Welcome" : "https://docs.google.com/document/d/e/2PACX-1vSEnsiB3MJgsayPVoBaF-a0X_PXbmAqfLIQ_Mtxdik3tQxEqt1NvyXLOp4RxMM-PCVPaxQFOg9sVjoM/pub?embedded=true",
+		"Schedule" : "https://docs.google.com/document/d/e/2PACX-1vS5Y4YYppmsph_UTEj9cxNPuYrHuVrQijz9XXLWQM5h4jTY8WEHPadIcFmJplldxHpK98ZNUiUrxuO7/pub?embedded=true",
+		"Participants" : "https://docs.google.com/document/d/e/2PACX-1vTA1T7IOPYu4dVMOgXXcQF9C-vm1X69Od_0fkdD_eNEhVpUvZ3NCuVys4TT1tWkEZK9HOV2vV4JPbt6/pub?embedded=true",
+		"Venues" : "https://docs.google.com/document/d/e/2PACX-1vSTXTaDADOTipHkc-gHlUy1D23oRmNxZ9YC5_1R1-rkIvH_6x6a0yxd-Wx9aioH9gFOdLbgRQINJF0Y/pub?embedded=true",
+		"——— External Links ———": "#",
+		"Brown Literary Arts" : ["_blank","https://www.brown.edu/academics/literary-arts/"],
+		"IWP": ["_blank","https://www.brown.edu/academics/literary-arts/international-writers-project/"]
+	}
+}

@@ -1,6 +1,3 @@
-# litartsxyz.github.io
-website code for literary arts xyz sites
-
 # Digital Language Arts Web Site using Binder (see below)
 
 The hosted site itself is tiny and lives on DreamHost, administered by John_Cayley@brown.edu

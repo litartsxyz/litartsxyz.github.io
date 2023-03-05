@@ -1,0 +1,10 @@
+{
+	"title": "Literary Arts XYZ",
+	"logo" : "logo.png",
+	"about" : "The free form website of<br />Literary Arts<br />Brown University",
+	"menu" : {
+		"Welcome" : "https://docs.google.com/document/d/e/2PACX-1vTt3JlDXmP1GAQI1zXsXIuhZdAPBe6wQhEnC9nAo0EYBh1Y1Oev5Y_QD4TrvI_5v81uwUP6mbhIh2d1/pub?embedded=true",
+		"Posts" : "https://docs.google.com/document/d/e/2PACX-1vSxdVgC82i804lJLQfzSk9IIxgffoUVQz73CdN0jvAY1E8_FqM4rAaEpl8dpctiOhXzgwez0ZOM_7lR/pub?embedded=true",
+		"Publishing" : "https://docs.google.com/document/d/e/2PACX-1vRL62nBGjGOPRuqAfcA-rBTD8xjjfQDW3P54uGpjeM0Xzy1uuAOc86TM2-qRYTULROmeUBEV99cuXFx/pub?embedded=true"
+	}
+}
