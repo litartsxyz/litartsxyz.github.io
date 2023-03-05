@@ -1,0 +1,17 @@
+{
+	"title": "Writing3D",
+	"logo" : "logo.png",
+	"about" : "The website of<br />Writing3D<br />Literary Arts<br />Brown University",
+	"menu" : {
+		"Welcome" : "https://docs.google.com/document/d/1gXDh5zUPn3FcvgvDQpbQ9Xl8hFvtlg3F16RT7PLFFbY/pub?embedded=true",
+		"Registration" : "https://docs.google.com/document/d/1PBCFbSpL4r5ofnVRCEsWbHLdCalDHjkBTMDibHT49oM/pub?embedded=true",
+		"Cave Writing" : "https://docs.google.com/document/d/1lqU5mSMnaCGxwRWIvRbuvl55Nrzv_AkfBv1Ii9WrYUI/pub?embedded=true",
+		"Software" : "https://docs.google.com/document/d/1oeHaqhiTu9GLZDjIt33jTtnzt7is5c6dpdsm1_VGrG8/pub?embedded=true",
+		"Most Recent Syllabus" : "https://docs.google.com/document/d/1I1fqpw2HsPKBuNud6I4QS880sbptM3gLhjl96oy-LUE/pub?embedded=true",
+		"FEATURED W3D for IF Now":"https://docs.google.com/document/d/e/2PACX-1vS5KlJg3p16M3LeJLfxoVTrRdsgxeF9uqYab1Y_OvpED-Cdn1PJdMiufuh6wc6gqQO8a4Th04IsbCtW/pub?embedded=true",
+		"Final Presentations" : "https://docs.google.com/document/d/1nsEod40D-k8Q0TMwypPGA6YNvyd2330NsAh5qDPJqog/pub?embedded=true",
+		"Other Presentations" : "https://docs.google.com/document/d/1dJG1bLDSOnE2f2tJTTZolett5lr1wfwB7P6PWP0Qo38/pub?embedded=true",
+		"——— External Links ————":"#",
+		"DLA" : ["_self","http://dlarts.xyz"]
+	}
+}
