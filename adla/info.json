@@ -1,0 +1,10 @@
+{
+	"title": "advance DLA",
+	"logo" : "logo.png",
+	"about" : "The website of the<br />advanced DLA workshop<br />Literary Arts<br />Brown University",
+	"menu" : {
+		"Welcome" : "https://docs.google.com/document/d/e/2PACX-1vQoJ1httBBlghtCc-X8ZRMs6S3u0LodDhVU7ITEh6yRgN_GTNRCmoB2rw2-Zcfy4ed3zrp7lKybvZBc/pub?embedded=true",
+		"Final Presentations" : "https://docs.google.com/document/d/e/2PACX-1vSgkiVy7T05xznsnkg2-PZO0VlJy0x8FywWcGqDuVOVeMgOexVhVINBvAbcI4WX5rQTmOLtCtGGQlnR/pub?embedded=true",
+		"DLARTS XYZ" : ["_self","http://dlarts.xyz"]
+	}
+}

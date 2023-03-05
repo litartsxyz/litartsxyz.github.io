@@ -1,0 +1,15 @@
+{
+	"title": "Digital Language Arts",
+	"logo" : "logo.png",
+	"about" : "The website of<br />Digital Language Arts<br />Literary Arts<br />Brown University",
+	"menu" : {
+		"Welcome" : "https://docs.google.com/document/d/13uc6U7y9CtMyWMEPg20EmzF9NPV-P-Ixv4tXzMkcwzo/pub?embedded=true",
+		"Notices" : "https://docs.google.com/document/d/1WxL2QF9X2pJi-MJdfhAYPIFqTvc4tqlU6HbrwZfZ9rI/pub?embedded=true",
+		"Events" : "https://docs.google.com/document/d/17_ymDoNuqKSoSr6clyn2GJWGS65vvovjcVm2-M_EuV4/pub?embedded=true",
+		"Courses" : "https://docs.google.com/document/d/1afYMbOwPenP9I-Xr0xja2ttF56tCtWbya5tQt16_g_g/pub?embedded=true",
+		"Alumni" : "https://docs.google.com/document/d/1t10gJRTieoz6fJ5av8M6EAd0cPZ2H-l8QQnq70Msdaw/pub?embedded=true",
+		"WRITING3D" : ["_self","http://writing3d.xyz"],
+		"aDLA" : ["_self","http://adla.dlarts.xyz"],
+		"LITARTS XYZ" : ["_self","http://literaryarts.xyz"]
+	}
+}
